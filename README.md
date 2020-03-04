@@ -1,0 +1,2 @@
+# progressaoexpoencial
+## etec itanhaem
